@@ -43,7 +43,7 @@ IntelliSQL/
 **Clone the Repository:**
 
 Bash
-eg: git clone https://github.com/Shaik-Mohammad-Ashfaq/IntelliSQL.git
+eg: git clone https://github.com/Lanka-Thanuja/IntelliSQL.git
 cd IntelliSQL
 
 **Set up Environment:**
@@ -70,13 +70,13 @@ streamlit run "Project Files/app.py"
 
 **👥 Team Members & Roles**
 
-1.Shaik Mohammad Ashfaq (Team Leader): AI Specialist & Project Manager 
+1.Lanka Thanuja (Team Leader): AI Specialist & Project Manager 
 
-2.Shaik Ziaur Rahaman: Backend Developer & Data Engineer 
+2.Madasu Sruthika: Backend Developer & Data Engineer 
 
-3.Srinivasula Samyuktha: Frontend Developer & UI/UX Designer 
+3.Maila Naveen: Frontend Developer & UI/UX Designer 
 
-4.Tammisetty L.P. Kumar: QA Engineer & Documentation 
+4.Mannava Hanna Rajika: QA Engineer & Documentation 
 
 **⚠️ Known Issues**
 
